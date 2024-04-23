@@ -1,0 +1,4 @@
+          File                               	  Details
+
+1. DDPG20_JJP1_8Story_Nonlinear                 DDPG Algorithm
+2. DDPG20_PG_JJP2_8Story_Final_Nonlinear        DDPG+PG Algorithm
