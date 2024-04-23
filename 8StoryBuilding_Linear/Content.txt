@@ -1,7 +1,0 @@
-          File                               Details
-
-1. DDPG20_JJP1_8Story_Final                 DDPG Algorithm
-2. DDPG20_PG_JJP2_8Story_Final              DDPG+PG Algorithm
-3. DDPG20_JJP1_8Story-h                     Variable weight DDPG+PG
-4. DDPG20_JJP1_8Story-h-Copy1               Variable weight DDPG
-
