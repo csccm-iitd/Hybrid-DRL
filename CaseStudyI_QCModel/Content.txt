@@ -1,0 +1,6 @@
+          File                               Details
+
+1. DDPG20_QC_state_Final                    DDPG Algorithm
+2. DDPG20_PG_QC_state_Final                 DDPG+PG Algorithm
+3. DDPG20_PG_episode_random_stateh_old      Variable weight DDPG+PG
+4. DDPG20_random_stateh_old                 Variable weight DDPG
