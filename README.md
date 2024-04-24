@@ -2,7 +2,7 @@
 This repository contains the python codes of the paper 
   > + Panda, J., Chopra, M., Matsagar, V., & Chakraborty, S. (2024). Continuous Control of Structural Vibrations using Hybrid Deep Reinforcement Learning Policy. Expert Systems With Applications, Accepted, In press. [Article]
 
-# Detailed learning sequence of the hybrid RL control policy.  
+# Learning sequence of the hybrid RL control policy.  
 ![Flowchat](Figure3.png)
 
 # Progress of reward function and derivative norm.
