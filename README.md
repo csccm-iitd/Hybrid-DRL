@@ -34,8 +34,8 @@ If you use any part of our codes, please cite us at,
   title={Continuous Control of Structural Vibrations using Hybrid Deep Reinforcement Learning Policy},
   author={Panda, J. and Chopra, M. and Matsagar, V. and Chakraborty, S},
   journal={Expert Systems With Applications},
-  volume={},
-  pages={},
+  volume={252-PartA},
+  pages={124075},
   year={2024},
   publisher={Elsevier}
 }
